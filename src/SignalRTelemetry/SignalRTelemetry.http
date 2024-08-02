@@ -1,0 +1,6 @@
+@SignalRTelemetry_HostAddress = http://localhost:5089
+
+GET {{SignalRTelemetry_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

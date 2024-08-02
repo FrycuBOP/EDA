@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G22HLjlgVMJvGnc2Zwox5O14UsuzeRAdkBgqtmNKljk=",
+  "Source": "SignalRTelemetry",
+  "BasePath": "_content/SignalRTelemetry",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
