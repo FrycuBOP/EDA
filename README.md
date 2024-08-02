@@ -5,7 +5,7 @@
 - **SignalRTelemetry:** application which handling events from RabbitMQ queue and implements SingnalR Hub
 - **SignalRClient:** SignalR client connects to SignalR hub and recived handled events from it
 
-==To run this project locally You need to instal RabbitMQ.==
+==To run this project locally You need to instal RabbitMQ==.
 
 ## Case description: 
 That kind of implementation can be used for example to read data for IoT sensors like telemetry form Cars etc. 
